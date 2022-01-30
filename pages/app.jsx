@@ -12,7 +12,7 @@ import SwitchNetwork from "../components/SwitchNetwork";
 const sdk = new ThirdwebSDK("rinkeby");
 
 const bundleDropModule = sdk.getBundleDropModule(
-  "0x2e2040BB43ba63AE7E055f28C3F61F2eb9e7B6d4"
+  "0x193574C8Cd4847b678D54d368F6779b6F66F5563"
 );
 
 const tokenModule = sdk.getTokenModule(

@@ -12,7 +12,7 @@ const SignIn: FC = () => {
       <div className="absolute bottom-14 -left-40 rounded-full bg-blue-400/30 blur-2xl md:h-96 md:w-96"></div>
       <Header />
       <h1 className="my-5 px-5 text-center text-3xl font-semibold text-white md:text-4xl">
-        Welcome to Inscribe
+        Welcome to RIMBAVERSE
       </h1>
       <div
         onClick={() => connectWallet("injected")}

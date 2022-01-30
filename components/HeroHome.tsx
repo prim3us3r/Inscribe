@@ -8,7 +8,7 @@ const HeroHome: FC = () => {
       <div className="absolute bottom-14 -left-40 rounded-full bg-blue-400/30 blur-2xl md:h-96 md:w-96"></div>
       <p className="text-slate-400">Inscribe DAO</p>
       <h1 className="bg-gradient-to-r from-pink-400 to-blue-400 bg-clip-text pb-2 text-center font-Ubuntu text-3xl font-extrabold text-transparent md:w-[600px] md:text-6xl">
-        A DAO for Bloggers all around the world!
+        A DAO for Forest Lovers!
       </h1>
       <p className="mt-4 w-5/6 text-center text-slate-300 md:w-2/5">
         A platform to connect with like-minded people
